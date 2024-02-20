@@ -6,7 +6,7 @@
 # 💫 About Me:
 - 📖 Education **B.Tech in Computer Science & Engineering.**
 
-- 🌱 I’m currently learning **A-Frame, Virtual Reality, 3D, WebAR**.
+- 🌱 I’m currently learning **Bun**.
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
