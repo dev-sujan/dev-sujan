@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sujan Maji</h1>
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
+<h3 align="center">A passionate Full Stack Developer & <strong>Software Engineer @<a href="https://www.techmahindra.com/" target="_blank">Tech Mahindra</a></strong> from India.</h3>
 
 
 
 # 💫 About Me:
+- 💼 Currently working as **Software Engineer @<a href="https://www.techmahindra.com/" target="_blank">Tech Mahindra</a>**
+
 - 📖 Education **B.Tech in Computer Science & Engineering.**
 
 - 🌱 I’m currently learning **Bun**.
